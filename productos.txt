@@ -1,0 +1,1 @@
+[{"id": 1,"nombreProducto": "Cebolla", "thumbnail": "https://LaDireccion"},{"id": 2,"nombreProducto": "Lechuga","thumbnail": "https://LaDireccion2"},{"id": 3,"nombreProducto": "Ajo","thumbnail": "https://LaDireccion3"}]
